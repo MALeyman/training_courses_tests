@@ -1,0 +1,7 @@
+onnxruntime-gpu
+numpy
+pillow
+gradio
+opencv-python
+torchvision
+albumentations

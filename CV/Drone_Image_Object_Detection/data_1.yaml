@@ -1,0 +1,12 @@
+#path: /home/maksim/develops/python/devsTraining/zala_task/dataset/dataset_UAVOD/dataset_full/
+path: /home/maksim/develops/python/Zala_task/Zala_task/data/dataset/dataset_full_1/
+#path: /home/maksim/develops/python/devsTraining/zala_task/dataset/dataset_UAVOD/datasets_split/
+train: images/train         # Папка с тренировочными изображениями
+val: images/val              # Папка с валидационными изображениями
+test: images/test            # Папка с тестовыми изображениями
+
+nc: 8  # Количество классов 
+#names: ['building', 'plane', 'fish net', 'landslide', 'pool', 'house', 'quarry', 'ship', 'vehicle', 'well', 'harbor', 'big vehicle', 'helicopter']
+#names: ['building', 'cable-tower', 'fish net', 'landslide', 'pool', 'house', 'quarry', 'ship', 'vehicle', 'well']
+#names: ['building', 'plane', 'fish net', 'landslide', 'pool', 'helicopter', 'quarry', 'ship', 'vehicle', 'well', 'harbor']
+names: ['building', 'plane', 'fish net', 'harbor', 'well', 'helicopter', 'vehicle', 'ship']
