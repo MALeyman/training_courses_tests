@@ -1,0 +1,6 @@
+NLP/imdb/data/dataset_new/
+NLP/imdb/data/dataset_old/
+NLP/imdb/data/test/
+NLP/imdb/data/
+NLP/imdb/data/test_dataset.pkl
+NLP/imdb/models/
