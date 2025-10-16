@@ -36,7 +36,7 @@
 
 -------------------------------   
 
-###  [Gradio](https://github.com/MALeyman/projects/tree/main/Gradio)
+#  [Gradio](https://github.com/MALeyman/projects/tree/main/Gradio)
 
 | Название                   | Описание                       | Ссылка                           |
 |----------------------------|--------------------------------|----------------------------------------------|
@@ -46,7 +46,7 @@
 ------------------------
 
 
-###  [Django](https://github.com/MALeyman/projects/tree/main/Django)
+#  [Django](https://github.com/MALeyman/projects/tree/main/Django)
 
 | Название                   | Описание                       | Ссылка                           |
 |----------------------------|--------------------------------|----------------------------------------------|
